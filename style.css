@@ -1,0 +1,7 @@
+#preso, .slide {
+  background:#F4F4F4 url(backbone/lsrc.png) right bottom no-repeat;
+}
+a, a:visited, a:hover, a:active {
+  color: blue;
+  text-decoration: none;
+}
