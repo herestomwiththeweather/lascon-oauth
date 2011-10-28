@@ -25,8 +25,11 @@
 * June 24, 2009: OAuth Core 1.0 Revision A
 * April 2010: IETF publishes [RFC 5849](http://tools.ietf.org/html/rfc5849)
 
-!SLIDE
-# OAuth 2
+!SLIDE bullets incremental
+# OAuth 2 Flows
+* "Get a Token"
+* Authorization code
+* Implicit Grant
 
 !SLIDE bullets incremental
 # 2 Mantras
@@ -40,8 +43,14 @@
 !SLIDE bullets incremental 
 # Refuting Mantra #2
 * Steal bearer token after session
+* It's sometimes easier (backup)
 
 !SLIDE center
 # Game On!
 ![Goalie](goalie.png)
+
+!SLIDE bullets incremental
+# OAuth 2 MAC
+* [draft-ietf-oauth-v2-http-mac-00](http://tools.ietf.org/html/draft-ietf-oauth-v2-http-mac-00)
+* [rack-oauth2-sample-mac](https://github.com/nov/rack-oauth2-sample-mac)
 
