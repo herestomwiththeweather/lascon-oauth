@@ -28,9 +28,9 @@
 
 !SLIDE bullets incremental
 # OAuth 2 Flows
-* "Get a Token"
-* Authorization code
-* Implicit Grant
+* ("Get a Token")
+* 1. Authorization code
+* 2. Implicit Grant
 
 !SLIDE bullets incremental
 # 2 Mantras
