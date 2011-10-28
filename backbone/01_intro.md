@@ -9,5 +9,5 @@
 
 ### Tom Brown
 ### [@tomwiththeweath](http://twitter.com/tomwiththeweath)
-### [http://beautifulpayments.heroku.com](http://beautifulpayments.heroku.com)
+### [http://lascon-oauth.heroku.com](http://lascon-oauth.heroku.com)
 
