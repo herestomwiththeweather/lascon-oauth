@@ -12,6 +12,7 @@
 !SLIDE commandline incremental
 # Make a payment #
 
+    $ wget raw.github.com/herestomwiththeweather/lascon-oauth/master/examples/dwolla_pay.rb
     $ export DWOLLA_OAUTH2_TOKEN=abcdefghijklmnopqrstuvwxyz
     $ export DWOLLA_PIN=1234
     $ irb
