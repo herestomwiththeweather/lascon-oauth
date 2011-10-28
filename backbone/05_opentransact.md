@@ -46,3 +46,7 @@
 
 !SLIDE center
 ![OAuth.jp Karma](oauthjp.png)
+
+!SLIDE center
+#Open Web Foundation CLA
+![owf](owf.jpg)

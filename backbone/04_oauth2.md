@@ -55,3 +55,6 @@
 * [draft-ietf-oauth-v2-http-mac-00](http://tools.ietf.org/html/draft-ietf-oauth-v2-http-mac-00)
 * [rack-oauth2-sample-mac](https://github.com/nov/rack-oauth2-sample-mac)
 
+!SLIDE bullets
+# OAuth 2 Security 
+* [OAuth 2 Security Considerations](http://tools.ietf.org/html/draft-lodderstedt-oauth-securityconsiderations-02)
