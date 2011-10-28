@@ -2,11 +2,11 @@
 # Agenda
 
 !SLIDE bullets
-* Motivation: Rethinking E-Commerce
-* Dwolla OAuth API
-* Open Transact 
-* OAuth.jp Karma 
-* API Design with Artifice & Cucumber
+* Rethinking E-Commerce
+* Dwolla OAuth v2 payment
+* OAuth 
+* OpenTransact 
+* OpenID Connect
 * Currency Exchange & Federation
 
 
